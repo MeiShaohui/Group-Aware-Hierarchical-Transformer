@@ -4,6 +4,8 @@ This repository is the official implementation for our IEEE TGRS 2022 paper:
 
 [Hyperspectral image classification using group-aware hierarchical transformer](https://www.doi.org/10.1109/TGRS.2022.3207933)
 
+Last update: September 20, 2022
+
 ## Requirements
 
 python == 3.7.9, cuda == 11.1, and packages in `requirements.txt`
