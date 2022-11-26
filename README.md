@@ -20,7 +20,7 @@ Download following datasets:
 
 - [WHU-LongKou (WHU-LK)](http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm)
 
-- [HyRANK-Loukia (HR-L)](https://www2.isprs.org/commissions/comm3/wg4/hyrank/)
+- [HyRANK-Loukia (HR-L)](https://zenodo.org/record/1222202#.Y4HMrX1Bxdi)
 
 Then organize these datasets like:
 
