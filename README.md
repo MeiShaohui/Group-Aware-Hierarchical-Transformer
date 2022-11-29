@@ -4,7 +4,7 @@ This repository is the official implementation for our IEEE TGRS 2022 paper:
 
 [Hyperspectral image classification using group-aware hierarchical transformer](https://www.doi.org/10.1109/TGRS.2022.3207933)
 
-Last update: September 20, 2022
+Last update: November 29, 2022
 
 ## Requirements
 
