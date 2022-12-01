@@ -4,7 +4,7 @@ This repository is the official implementation for our IEEE TGRS 2022 paper:
 
 [Hyperspectral image classification using group-aware hierarchical transformer](https://www.doi.org/10.1109/TGRS.2022.3207933)
 
-Last update: September 20, 2022
+Last update: November 29, 2022
 
 ## Requirements
 
@@ -20,7 +20,7 @@ Download following datasets:
 
 - [WHU-LongKou (WHU-LK)](http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm)
 
-- [HyRANK-Loukia (HR-L)](https://www2.isprs.org/commissions/comm3/wg4/hyrank/)
+- [HyRANK-Loukia (HR-L)](https://zenodo.org/record/1222202#.Y4HMrX1Bxdi)
 
 Then organize these datasets like:
 
